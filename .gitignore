@@ -6,6 +6,7 @@
 *.gba
 *.ram
 *.state
+*.gb
 
 # Python
 __pycache__/
